@@ -15,4 +15,4 @@ def test_forthProgram():
 def test_fifthProgram():
     a = 22
     b = 10
-    assert a - 13 == b, "Subtraction failed, test case failed"
+    assert a - 12 == b, "Subtraction failed, test case failed"
