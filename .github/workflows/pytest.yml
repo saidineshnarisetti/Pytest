@@ -4,6 +4,7 @@
 name: PyTest Workflow
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
